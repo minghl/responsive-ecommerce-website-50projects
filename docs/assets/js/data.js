@@ -101,6 +101,12 @@ const data = [
         number: '17',
         href: './projects/17Movie App/index.html'
     },
+    {
+        className: 'bx-slideshow',
+        title: 'Bg Slider',
+        number: '18',
+        href: './projects/18Background Slider/index.html'
+    },
 ];
 
 export default data;

@@ -59,5 +59,4 @@ pages.addEventListener('click', e => {
         const number = Math.floor(1 + (+sneakers[0].querySelector('.sneaker__preci').innerText) / 12) + 1;
         featuredCon.innerHTML = projects.slice((number - 1) * 12, (number - 1) * 12 + 12).join('');
     }
-
 })
