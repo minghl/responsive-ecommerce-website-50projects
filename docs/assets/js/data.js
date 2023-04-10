@@ -107,6 +107,12 @@ const data = [
         number: '18',
         href: './projects/18Background Slider/index.html'
     },
+    {
+        className: 'bx-time-five',
+        title: 'Theme Clock',
+        number: '19',
+        href: './projects/19Theme Clock/index.html'
+    },
 ];
 
 export default data;
