@@ -113,6 +113,12 @@ const data = [
         number: '19',
         href: './projects/19Theme Clock/index.html'
     },
+    {
+        className: 'bx-water',
+        title: 'Button Ripple',
+        number: '20',
+        href: './projects/20Button Ripple Effect/index.html'
+    },
 ];
 
 export default data;
