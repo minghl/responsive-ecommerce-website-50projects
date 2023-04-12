@@ -119,6 +119,12 @@ const data = [
         number: '20',
         href: './projects/20Button Ripple Effect/index.html'
     },
+    {
+        className: 'bxl-dropbox',
+        title: 'Drag Drop',
+        number: '21',
+        href: './projects/21Drag N Drop/index.html'
+    },
 ];
 
 export default data;
