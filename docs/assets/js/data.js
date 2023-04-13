@@ -125,6 +125,12 @@ const data = [
         number: '21',
         href: './projects/21Drag N Drop/index.html'
     },
+    {
+        className: 'bx-pencil',
+        title: 'Draw App',
+        number: '22',
+        href: './projects/22Drawing App/index.html'
+    },
 ];
 
 export default data;
