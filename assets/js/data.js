@@ -131,6 +131,12 @@ const data = [
         number: '22',
         href: './projects/22Drawing App/index.html'
     },
+    {
+        className: 'bx-loader',
+        title: 'Kinetic Loader',
+        number: '23',
+        href: './projects/23Kinetic Loader/index.html'
+    },
 ];
 
 export default data;
