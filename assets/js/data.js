@@ -137,6 +137,12 @@ const data = [
         number: '23',
         href: './projects/23Kinetic Loader/index.html'
     },
+    {
+        className: 'bxl-trello',
+        title: 'Content Placeholder',
+        number: '24',
+        href: './projects/24Content Placeholder/index.html'
+    },
 ];
 
 export default data;
